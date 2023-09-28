@@ -26,7 +26,7 @@ let result = (new Function('return ' + val))()
 if (!result) throw result
 m.reply(`*${format}* = _${result}_`)
 } catch (e) {
-if (e == undefined) throw '*[❗𝐈𝐍𝐅𝐎❗] Enter the mathematical operation you want to calculate*'
+if (e == undefined) throw '*Ingresa la operación matemática que deseas calcular*'
 throw '*[❗𝐈𝐍𝐅𝐎❗] Unmissat format, only numbers and symbols are allowed -, +, *, /, ×, ÷, π, e, (, )*'
 }}
 handler.help = ['calc <expression>']
