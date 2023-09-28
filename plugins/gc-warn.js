@@ -14,7 +14,7 @@ let handler = async (m, { conn, text, command, usedPrefix }) => {
   let dReason = "Sin motivo";
   let msgtext = text || dReason;
   let sdms = msgtext.replace(/@\d+-?\d* /g, "");
-  let warntext = `*[❗] Tag a person or respond to a group message to warn the user*\n\n*—◉ Example++:*\n*${
+  let warntext = `🧑🏻‍💻 *Etiqueta a una persona o responde a un mensaje de grupo para advertir al usuario.*\n\n*—◉ Ejemplo++:*\n*${
     usedPrefix + command
   } @${global.suittag}*`;
   if (!who)
@@ -38,7 +38,7 @@ let handler = async (m, { conn, text, command, usedPrefix }) => {
     await m.reply(
       `I warned you several times!!\n*@${
         who.split`@`[0]
-      }* You exceeded the *3* warnings, now you will be eliminated 👽`,
+      }* Has superado las 3 advertencias, ahora serás eliminado* 😈`,
       null,
       { mentions: [who] },
     );
