@@ -21,26 +21,15 @@ let str = `${gt}
 ✨ *𝗛ᴏʟᴀ,➟${taguser}
 
 ╭「❥🧿 *Grupos y cuentas*🧿 ❥」
-├π *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰*
-├π https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf
-├π *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰2*
-├π https://chat.whatsapp.com/DpRVuXpKRF43iMOEtg85wz
-├π *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰3*
-├π https://chat.whatsapp.com/LLCdXUAUjtVA8And8clsWu
-├π *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰4*
-│➯🧿https://chat.whatsapp.com/DSb14IPCAaU0ZovBwA2ts0
-├π *𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰*
-├π https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
-├π *𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰2*
-├π https://chat.whatsapp.com/CJqwaDfrXP02oWl2WAf8rK
-├π *𝚙á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔*
-├π https://www.facebook.com/groups/987464505464904/?ref=share
-├π *𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎*
-├π https://youtube.com/@hades_bot2391
-├π *INSTAGRAM*
-├π  https://instagram.com/ofc.yovani.bot?igshid=ZDc4ODBmNjlmNQ==
+├π *DROID-8-MD*
+├π https://chat.whatsapp.com/KXaAogRpQWOFwlAcP9JkQX
+├π *gp-2*
+├π https://chat.whatsapp.com/KmgfBWEdJgZ8fF3Ve1nMIK
+├π 
+├π *agg en Facebook 🙌*
+├π https://www.facebook.com/profile.php?id=61550042923816&mibextid=ZbWKwL
 ├π 🔮 *KIKTOK*
-├π  https://vm.tiktok.com/ZM2rbFWnr/
+├π  http://tiktok.com/@tony.1p
 ╰───`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
