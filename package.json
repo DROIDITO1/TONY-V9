@@ -1,7 +1,7 @@
 {
-  "name": "HADES-BOT-MD",
+  "name": "DROID-BOT-MD",
   "version": "1.0.0",
-  "description": "subscribe to the HADES-BOT channel",
+  "description": "Sigueme en tiktok",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA",
+  "homepage": "http://tiktok.com/@tony.1p",
   "author": {
-    "name": "OFC-YOVANI"
+    "name": "OFC-TONY"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git"
+    "url": "http://tiktok.com/@tony.1p"
   },
   "bugs": {
-    "url": "https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/issues"
+    "url": "http://tiktok.com/@tony.1p/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
