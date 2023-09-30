@@ -1,15 +1,3 @@
-[Run on Repl.it](https://repl.it/badge/github/OFC-YOVANI/HADES-BOT-OMEGA)](https://repl.it/github/OFC-YOVANI/HADES-BOT-OMEGA)
-
-### `—◉ 💥 ACTIVAR EN KOYEB 💥`
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/OFC-YOVANI/HADES-BOT-OMEGA&branch=master&name=Hatsunemikubot)
-
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HADES-BOT-OMEGA)
-
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HADES-BOT-OMEGA/blob/main/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -43,7 +31,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git && cd HADES-BOT-OMEGA
+git clone https://github.com/DROIDITO1/TONY-V9.git && cd TONY-V9
 ```
 
 ```bash
@@ -67,11 +55,12 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HADES-BOT-OMEGA
+ cd TONY-V9
+
 ```
 
 ```bash
-> npm start
+ npm start
 ```
 
 ### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
